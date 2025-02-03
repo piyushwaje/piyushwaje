@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Waje</h1>
 <h2 align="center"> IOS and Flutter Developer</h2>
 
-
 <p align="center">
   <!-- Tech Logos -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="60" />
@@ -22,7 +21,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" />
   </a>
   <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/X_logo_2023.svg" alt="Twitter (X)" width="40" />
+    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="Twitter (X)" width="40" />
   </a>
 </p>
 
