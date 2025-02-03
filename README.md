@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Waje</h1>
-<h3 align="center"> IOS and Flutter Developer</h3>
+<h2 align="center"> IOS and Flutter Developer</h2>
 
 
 <p align="left">
