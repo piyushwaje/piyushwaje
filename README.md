@@ -19,7 +19,7 @@
 
 ## 📫 Contact Me
 <p align="center">
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/piyushwaje/)" target="_blank">
+  <a href="https://www.linkedin.com/in/piyushwaje/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" />
   </a>
   <a href="mailto:piyushwaje2002@gmail.com">
