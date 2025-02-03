@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Waje</h1>
 <h3 align="center"> IOS and Flutter Developer</h3>
 
-- 📫 How to reach me **piyushwaje2002@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
 <p align="left">
 </p>
 
