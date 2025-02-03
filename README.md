@@ -19,14 +19,14 @@
 
 ## 📫 Contact Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/piyushwaje/)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:piyushwaje2002@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" />
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" alt="Twitter (X)" width="40" />
+  <a href="https://x.com/piyushwaje" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png" alt="Twitter (X)" width="40" />
   </a>
 </p>
 
