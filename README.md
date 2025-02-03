@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Piyush Waje</h1>
+<h1 align="center">Hey 👋, I'm Piyush</h1>
 <h2 align="center"> IOS and Flutter Developer</h2>
 <p align="center">
-  <!-- Tech Logos -->
 
   <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" alt="SwiftUI" width="60" />
   <img src="https://img.icons8.com/?size=100&id=24465&format=png&color=000000" alt="Swift" width="60" />
@@ -11,7 +10,7 @@
 </p>
 
 <p align="center">
-  <!-- Tech Logos -->
+ 
   <img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter" width="60" />
   <img src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" alt="Firebase" width="60" />
 
